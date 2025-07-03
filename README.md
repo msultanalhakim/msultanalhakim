@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there! I'm Muhammad Sultan Alhakim
 
-<!--
-**msultanalhakim/msultanalhakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Machine Learning Engineer | Data Scientist | MLOps Enthusiast**  
+🔬 I build scalable ML systems, analyze data to drive decisions, and deploy models to production.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m a passionate technologist with a strong interest in **data-centric AI**, **production-grade ML**, and **intelligent systems**. My work lies at the intersection of:
+
+- 🧪 **Data Science** – Statistical modeling, EDA, feature engineering
+- 🤖 **Machine Learning Engineering** – Building, training, and optimizing ML pipelines
+- 🔁 **MLOps** – Automating and operationalizing ML with CI/CD, Docker, and cloud tools
+
+I believe in **clean code, reproducibility**, and solving real-world problems with data.
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+## 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msultanalhakim) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msultanalhakim@gmail.com)
+
+---
+
+✨ *“Making data useful is an art. Making models work at scale is an engineering challenge I enjoy solving.”*
